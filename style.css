@@ -1,0 +1,14 @@
+#listContainer{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    text-align: center;
+}
+.list{
+    padding: 1%;
+}
+ul{
+    list-style: none;
+    padding: 0%;
+}
